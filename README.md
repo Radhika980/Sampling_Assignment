@@ -28,7 +28,7 @@ The table below shows the accuracies of each sampling technique on five differen
 
 ![image](https://user-images.githubusercontent.com/73791285/219968793-e37dc031-6c67-4b5e-9edd-225063abde78.png)
 
-After applying the TOPSIS method to evaluate the performance of different machine learning models, we have identified the best performing model as the "Random Forest" algorithm. The TOPSIS method helped us to select the most appropriate model based on multiple criteria or performance metrics, such as accuracy, precision, recall, and F1-score.
+After applying the TOPSIS method to evaluate the performance of different machine learning models, we have identified the best performing model as the "Random Forest" algorithm. The TOPSIS method helped us to select the most appropriate model based on different sampling techniques.
 
 ![WhatsApp Image 2023-02-20 at 12 30 40 AM](https://user-images.githubusercontent.com/73791285/219969335-520f044c-4505-4adb-a7d7-934aeb3c8a59.jpeg)
 
