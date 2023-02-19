@@ -33,7 +33,7 @@ After applying the TOPSIS method to evaluate the performance of different machin
 ![WhatsApp Image 2023-02-20 at 12 30 40 AM](https://user-images.githubusercontent.com/73791285/219969335-520f044c-4505-4adb-a7d7-934aeb3c8a59.jpeg)
 
 
-Random Forest is an ensemble model that uses multiple decision trees to make predictions. It is a highly flexible and powerful machine learning algorithm that can be used for both classification and regression problems. Random Forest is known for its high accuracy, robustness to noise and overfitting, and ability to handle large datasets with high-dimensional feature spaces.
+**Random Forest** is an ensemble model that uses multiple decision trees to make predictions. It is a highly flexible and powerful machine learning algorithm that can be used for both classification and regression problems. Random Forest is known for its high accuracy, robustness to noise and overfitting, and ability to handle large datasets with high-dimensional feature spaces.
 
 The selection of Random Forest as the best model indicates that it outperformed other models that were evaluated in terms of their overall performance on the given dataset. Therefore, this model is likely to be the most effective for making predictions on new data. However, it is important to note that the choice of the best model may vary depending on the dataset and the specific problem being solved, and it is always recommended to use a range of evaluation techniques to validate the results.
 
