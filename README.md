@@ -22,7 +22,7 @@
 
 **5. Convenience sampling**: This is a non-probability sampling technique in which the researcher selects the most easily accessible individuals or data points from the population. 
 
-#Comparison Table
+# Comparison Table
 
 The table below shows the accuracies of each sampling technique on five different machine learning models. The dataset used for all models is a balanced version of the original unbalanced dataset.
 
